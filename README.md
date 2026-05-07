@@ -61,7 +61,7 @@ dataset/
     ├── train/
     ├── val/
     └── test/
-```text
+```
 ---
 
 ## 1.6 Model
