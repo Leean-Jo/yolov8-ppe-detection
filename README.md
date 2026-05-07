@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 1. YOLOv8 PPE Detection
 
 ## 1.1 Overview
@@ -51,7 +51,7 @@ To broaden my computer vision portfolio, I additionally developed this YOLOv8-ba
 The project uses a construction-site PPE dataset in YOLO annotation format.
 
 Dataset structure:
-'''
+```text
 dataset/
 ├── images/
 │   ├── train/
@@ -61,7 +61,7 @@ dataset/
     ├── train/
     ├── val/
     └── test/
-'''
+```text
 ---
 
 ## 1.6 Model
@@ -86,7 +86,7 @@ python val.py
 
 ## 1.9 Inference
 
-python infer.py --image_path samples/ppe_sample.jpg
+python infer.py --image_path samples/sample.jpg
 
 ---
 
@@ -105,11 +105,11 @@ python infer.py --image_path samples/ppe_sample.jpg
 
 ### Before
 
-![before](assets/before/sample.jpeg)
+![before](assets/before/sample.jpg)
 
 ### After
 
-![after](assets/after/sample.jpeg)
+![after](assets/after/sample.jpg)
 
 ---
 
