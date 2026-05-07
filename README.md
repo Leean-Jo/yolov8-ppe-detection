@@ -142,7 +142,5 @@ This project demonstrates practical computer vision skills in:
 - Real-time Inference
 - YOLO-based Deployment Pipelines
 
-Combined with my previous medical imaging projects, this work expands my experience across segmentation, classification, and detection tasks in computer vision.
 =======
-# yolov8-ppe-detection
->>>>>>> a1b1529be89f322b21c8323834bf10ca17b698d5
+
