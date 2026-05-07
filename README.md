@@ -51,7 +51,7 @@ To broaden my computer vision portfolio, I additionally developed this YOLOv8-ba
 The project uses a construction-site PPE dataset in YOLO annotation format.
 
 Dataset structure:
-
+'''
 dataset/
 ├── images/
 │   ├── train/
@@ -61,7 +61,7 @@ dataset/
     ├── train/
     ├── val/
     └── test/
-
+'''
 ---
 
 ## 1.6 Model
@@ -105,11 +105,11 @@ python infer.py --image_path samples/ppe_sample.jpg
 
 ### Before
 
-![before](assets/before/ppe_sample.jpg)
+![before](assets/before/sample.jpeg)
 
 ### After
 
-![after](assets/after/ppe_result.jpg)
+![after](assets/after/sample.jpeg)
 
 ---
 
