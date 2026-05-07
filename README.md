@@ -105,7 +105,7 @@ python infer.py --image_path samples/sample.jpg
 
 ### Before
 
-![before](assets/before/sample.jpg)
+![before](assets/before/sample.jpeg)
 
 ### After
 
