@@ -1,0 +1,8 @@
+venv/ 
+dataset/ 
+runs/ 
+*.zip 
+*.pt 
+*.onnx 
+__pycache__/ 
+*.pyc 

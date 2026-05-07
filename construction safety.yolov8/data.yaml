@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 5
+names: ['helmet', 'no-helmet', 'no-vest', 'person', 'vest']
+
+roboflow:
+  workspace: leean-jo
+  project: leean-jo
+  version: dataset
+  license: Private
+  url: https://app.roboflow.com/leean-jo/leean-jo/dataset
